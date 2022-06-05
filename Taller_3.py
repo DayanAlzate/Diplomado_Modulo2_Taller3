@@ -3,7 +3,8 @@
 """
 Created on Fri Jun  3 12:05:26 2022
 
-@author: dayan
+@author: dayan alzate hernandez
+Id:000502226
 """
 ## imporatamos la libreria pandas para poder convertir y interactuar con dataframe  
 import pandas as pd
