@@ -40,7 +40,7 @@ class persona():
         # imprimimos los indice de masa corporal por la terminal con su repectivo mensaje 
  
         for inicio in self.datos["imc"]:
-             print ("Tu índice de masa corporales es  "+str(inicio)+" donde 18.5—24.9 es el índice de masa corporal normal \n")
+             print ("Tu índice de masa corporales es  "+str(round(inicio,2))+" donde 18.5—24.9 es el índice de masa corporal normal \n")
              
         
         
